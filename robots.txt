@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://afigueja.github.io/NBv/sitemap_index.txt
+Sitemap: https://afigueja.github.io/YfZ/sitemap_index.txt
+Sitemap: https://afigueja.github.io/fVt/sitemap_index.txt
+Sitemap: https://afigueja.github.io/kCN/sitemap_index.txt
